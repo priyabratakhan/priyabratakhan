@@ -1,7 +1,3 @@
-- 👋 Hi, I’m Priyabrata Khan
-- 👀 I’m interested in front end developing.
-- 🌱 I’m currently learning React. I am also skilled in html, css, javascript, mongodb, node.js and express.
-- 📫 mail:Priyabrataa.khan@gmail.com
 <h1 align="center">Hi 👋, I'm Priyabrata Khan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
