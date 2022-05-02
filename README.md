@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyabratakhan" alt="priyabratakhan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p>A dedicated Full Stack Web developer with a specialized skill set that enables me to build robust web applications. I am adept in both front-end and back-end and have an eye for performance and accuracy. I am adaptable, proficient in remote collaboration, and committed to achieving organizational goals. With a knack for problem-solving and analytics, I am passionate about solving Algorithmic problems with a good hold on Data Structures</p>
 
 - 🌱 I’m currently learning **React**
 
